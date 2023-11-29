@@ -1,0 +1,4 @@
+{
+    "environment" : "local",
+    "DB_STRING" : "mongodb+srv://ria1149be21:8Uiuo57147d7qWFJ@cluster0.b0gbl5q.mongodb.net/librarycrud"
+}
